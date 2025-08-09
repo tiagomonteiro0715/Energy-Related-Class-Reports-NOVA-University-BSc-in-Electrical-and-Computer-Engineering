@@ -2,6 +2,12 @@
 
 This repository contains academic laboratorial reports from classes related to the eletrical engineering subfiled called Energy.
 
+In my bachelor degree, there was 2 classes on Energy:
+- **Theoretical Electrotechnics**: Core electrical engineering principles and mathematical models
+- **Electromechanical Energy Conversion**: Practical applications and theoretical foundations
+
+---
+
 The 1.º Theoretical Electrotechnics report grade was of 15.5 out of 20
 The 2.º Theoretical Electrotechnics report grade was of 17.5 out of 20
 
@@ -15,10 +21,6 @@ When I did Electromechanical Energy Conversion, 35%(more than 1 in every 3) fail
 Energy is great, but it wasn’t my main focus during my bachelor’s degree. 
 
 I was far more interested in math, physics, control theory, and AI, which I explored extensively through Coursera courses.
-
-They are based on 2 classes:
-- **Theoretical Electrotechnics**: Core electrical engineering principles and mathematical models
-- **Electromechanical Energy Conversion**: Practical applications and theoretical foundations
 
 ## File Structure
 
@@ -58,4 +60,5 @@ These reports represent coursework from the Electrical Machines course, covering
 
 - [Guilherme Mendes](https://www.linkedin.com/in/guilherme-mendes-a416b7206/)
 - Rodrigo Corceiro
+
 - [Tiago Monteiro](https://www.linkedin.com/in/tiago-monteiro-/)
