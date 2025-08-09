@@ -9,12 +9,10 @@ In my bachelor degree, there was 2 classes on Energy:
 ---
 
 When I did Theoretical Electrotechnics, 36%(more than 1 in every 3) failed the class and my grade I was a little bit above average:
-
 - The 1.º Theoretical Electrotechnics report grade was of 15.5 out of 20
 - The 2.º Theoretical Electrotechnics report grade was of 17.5 out of 20
 
 When I did Electromechanical Energy Conversion, 35%(more than 1 in every 3) failed the class and my grade I was a little bit above average:
-
 - The 1.º Electromechanical Energy Conversion report grade was of 14 out of 20
 - The 2.º Electromechanical Energy Conversion report grade was of 13 out of 20
 
@@ -62,4 +60,5 @@ These reports represent coursework from the Electrical Machines course, covering
 - Rodrigo Corceiro
 
 - [Tiago Monteiro](https://www.linkedin.com/in/tiago-monteiro-/)
+
 
